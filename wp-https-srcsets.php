@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Srcset HTTPS fix
+Plugin Name: WP HTTPS Srcsets
 Description: Forces all responsive srcset urls to use HTTPS (fixes bug exposed in WP 4.4:  https://core.trac.wordpress.org/ticket/25449#comment:13)
 Version: 0.0.0
 Author: UCF Web Communications

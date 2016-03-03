@@ -1,4 +1,4 @@
-=== Srcset HTTPS Fix ===
+=== WP HTTPS Srcsets ===
 Contributors: ucfwebcom
 Tags: srcset, https
 Requires at least: 4.4
